@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pritam1997
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning programming and algorithm
-- 💞️ I’m looking to collaborate on software development
+- 💞️ I’m looking to collaborate on software engineer
 - 📫 How to reach me pritam7387@hotmail.com
 
 <!---
