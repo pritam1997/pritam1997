@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pritam1997
 - 👀 I’m interested in Development and Operations
-- 🌱 I’m currently having fun with node world
+- 🌱 I’m currently having fun with different world of software
 - 📫 How to reach me pritam7387@hotmail.com
 
 <!---
